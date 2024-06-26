@@ -1,0 +1,22 @@
+{
+  "name": "dockerexam",
+  "version": "1.0.0",
+  "description": "docker exam example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kwaz1k/dockerExam.git"
+  },
+  "author": "kwaz1k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwaz1k/dockerExam/issues"
+  },
+  "homepage": "https://github.com/kwaz1k/dockerExam#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
